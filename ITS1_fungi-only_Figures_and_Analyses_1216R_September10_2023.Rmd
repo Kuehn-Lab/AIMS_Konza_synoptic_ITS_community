@@ -56,7 +56,7 @@ Rarefication, focusing on a subsample for diversity analyses. Comparing samples 
 
 Need to rarefy using the cured ASVs before constructing the final phyloseq object:
 ```{r}
-setwd('/Users/chunk/AIMS_Konza_synoptic_ITS_community/analysis')
+setwd('/Users/chunk/AIMS_Konza_synoptic_ITS_community/phyloseq_tabs')
 
 #Create phyloseq object
 #read in files
